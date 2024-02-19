@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Gurti Foundaton</title>
+        <title>Gurti Foundation</title>
       </Head>
       <Transition />
       <main className=" flex items-center text-dark w-full min-h-screen ">
